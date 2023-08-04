@@ -1,0 +1,2 @@
+info:
+  im a config !
